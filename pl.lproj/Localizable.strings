@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Sys_Mob IOS2
+
+  Created by student on 08/11/2021.
+  Copyright © 2021 student. All rights reserved.
+*/
+
+"Information"="Informacja";
+
+"text"=
+"Wydział prowadzi %i programy na poziomie magisterskim i licencjackim.";
+
+//NSLocalizedString(@"Information",nil)
+//NSLocalizedString(@"The faculty is running %i programs on graduate and undergraduate level.",nil)
